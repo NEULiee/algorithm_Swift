@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  Romna to Integer
+//  Roman to Integer
 //
 //  Created by 하늘이 on 2022/03/14.
 //
